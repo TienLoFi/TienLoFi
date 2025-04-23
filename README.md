@@ -3,75 +3,47 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vuvandinh123">
-   
+  <a href="https://github.com/TienLoFi">
+
   </a>
 
-  <h1 align="center">🇻🇳 Vu Van Dinh 🇻🇳</h1>
+  <h1 align="center">Hà Ngọc Tiến</h1>
   <p align="center">
-    
-  📌 
-    <a href="https://vuvandinh.id.vn/"><strong> 🌐 My Home Page »</strong></a>
-    <br />
-    <br />
-    <a href="https://vuvandinh.id.vn/">ReactJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">NodeJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">ExpressJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">PHP</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">Laravel</a>
-     ·
-    <a href="https://vuvandinh.id.vn/">Wordpress</a>
-  </p>
+
 </div>
 
 ## 👱 About Me
 
-Hi, I'm Vu Van Dinh, Full-stack,Ho Chi Minh city.
+Hi, I'm Hà Ngọc Tiến, Full-stack,Ho Chi Minh city.
 
-I am passionate about end-to-end development to create user-friendly websites. With 1 year of experience working with HTML/CSS, JavaScript, ReactJS, ExpressJS and Laravel. I have developed strong capabilities in these technologies. I pride myself on my ability to quickly learn new skills, work effectively in teams, and communicate well.
-
-You can visit my little corner at 🌐 <https://vuvandinh.id.vn> 
-
+I am passionate about end-to-end development to create user-friendly websites. I have a strong foundation in HTML/CSS, JavaScript, ReactJS, ExpressJS, and Laravel, along with the ability to learn quickly, collaborate effectively in teams, and communicate clearly.
 ****
 
 ## 🛠 Skills
-🥪 **Front End** / 🥗 **Backend** / 🍊 **DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,tailwindcss,redux,bootstrap,php,laravel,wordpress,html,css,js,jquery,ts,scss,electron,mysql,mongodb,redis)](https://vuvandinh.id.vn)
+🥪 **Front End** / 🥗 **Backend** 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwindcss,redux,bootstrap,php,laravel,html,css,js,jquery,scss,mysql,mongodb)]
 
 ## 🔥 Achievement
 
-- 🏆 Top 4 In the Ho Chi Minh City Excellent Student Web Design Competition 2024
-- 🏅 Top 7 in the Ho Chi Minh City Excellent Student Web Design Competition 2023
+- 🏆 Top 7 In the Ho Chi Minh City Excellent Student Web Design Competition 2024
+
 
 ## 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,cloudflare,vercel,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,git,npma,github,githubactions,figma,aws,vscode,gitlab)]
 
 ## ️🎯 Contribution
 
-- [Fullstack](https://aviatek.com.vn/) (AVIATEK)
-
-## 🙌 Relation Ship
-
-- [Hjn4Pwn](https://github.com/Hjn4Pwn) (Friend)
-- [evansnguyen0104](https://github.com/evansnguyen0104) (Boss)
-- [hodienloi1981](https://github.com/hodienloi1981) (Teacher)
-
+- [Backend](https://https://cards.fimi.tech/) 
+- [Fullstack] (https://app.zudo.vn/)
+ 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## 📁 My Projects
 
-
-
-
 ### 📈 my github stats
 
 <div align="center">
-    <a href="https://github.com/vuvandinh123">
+    <a href="https://github.com/TienLoFi">
         <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
     </a>
 </div>
