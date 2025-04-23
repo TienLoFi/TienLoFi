@@ -1,77 +1,83 @@
+
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/vuvandinh123">
-   
+  <h1 align="center">Hà Ngọc Tiến</h1>
+   <a href="https://github.com/TienLoFi">
+<img src="images/hangoctien.jpg"  alt="Logo" width="80" height="80">
   </a>
-
-  <h1 align="center">🇻🇳 Vu Van Dinh 🇻🇳</h1>
   <p align="center">
-    
-  📌 
-    <a href="https://vuvandinh.id.vn/"><strong> 🌐 My Home Page »</strong></a>
-    <br />
-    <br />
-    <a href="https://vuvandinh.id.vn/">ReactJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">NodeJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">ExpressJS</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">PHP</a>
-    ·
-    <a href="https://vuvandinh.id.vn/">Laravel</a>
-     ·
-    <a href="https://vuvandinh.id.vn/">Wordpress</a>
+    Full-Stack Developer based in Ho Chi Minh City
   </p>
 </div>
 
 ## 👱 About Me
 
-Hi, I'm Vu Van Dinh, Full-stack,Ho Chi Minh city.
+Hi, I'm Hà Ngọc Tiến, a passionate Full-Stack Developer.
+I have a strong foundation in **HTML/CSS**, **JavaScript**, **ReactJS**, **ExpressJS**, and **Laravel**, with the ability to quickly learn new technologies.
+I collaborate effectively in teams and communicate clearly, always striving to create **user-friendly websites**.
 
-I am passionate about end-to-end development to create user-friendly websites. With 1 year of experience working with HTML/CSS, JavaScript, ReactJS, ExpressJS and Laravel. I have developed strong capabilities in these technologies. I pride myself on my ability to quickly learn new skills, work effectively in teams, and communicate well.
-
-You can visit my little corner at 🌐 <https://vuvandinh.id.vn> 
-
-****
+---
 
 ## 🛠 Skills
-🥪 **Front End** / 🥗 **Backend** / 🍊 **DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,express,tailwindcss,redux,bootstrap,php,laravel,wordpress,html,css,js,jquery,ts,scss,electron,mysql,mongodb,redis)](https://vuvandinh.id.vn)
+🥪 **Front End** / 🥗 **Backend**
 
-## 🔥 Achievement
+![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwindcss,redux,bootstrap,php,laravel,html,css,js,jquery,scss,mysql,mongodb)
 
-- 🏆 Top 4 In the Ho Chi Minh City Excellent Student Web Design Competition 2024
-- 🏅 Top 7 in the Ho Chi Minh City Excellent Student Web Design Competition 2023
+---
+
+## 🔥 Achievements
+
+- 🏆 **Top 7** in the **Ho Chi Minh City Excellent Student Web Design Competition** 2024
+
+---
 
 ## 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,cloudflare,vercel,heroku,vscode,gitlab)](https://vuvandinh.id.vn)
 
-## ️🎯 Contribution
+![Tools](https://skillicons.dev/icons?i=mysql,docker,git,npm,github,githubactions,figma,aws,vscode,gitlab)
 
-- [Fullstack](https://aviatek.com.vn/) (AVIATEK)
+---
 
-## 🙌 Relation Ship
+## 🎯 Contribution
 
-- [Hjn4Pwn](https://github.com/Hjn4Pwn) (Friend)
-- [evansnguyen0104](https://github.com/evansnguyen0104) (Boss)
-- [hodienloi1981](https://github.com/hodienloi1981) (Teacher)
+- [Backend Project](https://cards.fimi.tech/)
+- [Fullstack Project](https://app.zudo.vn/)
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
+---
 
-## 📁 My Projects
-
-
-
-
-### 📈 my github stats
+## 📈 My GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/vuvandinh123">
-        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
+    <a href="https://github.com/TienLoFi">
+        <img src="https://github-readme-stats.vercel.app/api?username=TienLoFi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
     </a>
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+    <a href="https://github.com/TienLoFi">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienLoFi&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116" alt="GitHub Activity" />
+    </a>
+</div>
+
+---
+
+## 👀 Visitors Counter
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TienLoFi.TienLoFi)
+
+---
+
+## 📅 Current Work
+
+I'm currently focused on improving my skills in **ReactJS** and **Laravel**, while also exploring new technologies like **Docker** and **AWS** to optimize and deploy apps.
+
+---
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
