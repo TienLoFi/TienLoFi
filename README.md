@@ -3,7 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Hà Ngọc Tiến</h1>
+<h1 align="center" style="font-weight: bold; font-size: 32px;">
+  Hà Ngọc Tiến
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="24" height="16" style="vertical-align: middle; margin-left: 8px;">
+</h1>
+
    <a href="https://github.com/TienLoFi">
 <img src="images/hangoctien.jpg"  alt="Logo" width="80" height="80">
   </a>
