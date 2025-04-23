@@ -8,15 +8,15 @@
 <img src="images/hangoctien.jpg"  alt="Logo" width="80" height="80">
   </a>
   <p align="center">
-    Full-Stack Developer based in Ho Chi Minh City
+    Full-Stack Developer in Ho Chi Minh City
   </p>
 </div>
 
 ## 👱 About Me
 
-Hi, I'm Hà Ngọc Tiến, a passionate Full-Stack Developer.
-I have a strong foundation in **HTML/CSS**, **JavaScript**, **ReactJS**, **ExpressJS**, and **Laravel**, with the ability to quickly learn new technologies.
-I collaborate effectively in teams and communicate clearly, always striving to create **user-friendly websites**.
+Hi, I'm Hà Ngọc Tiến, a Junior Full-Stack Developer freshly graduated with 7 months of practical experience in real-world projects.
+I have a solid foundation in HTML/CSS, JavaScript, ReactJS, ExpressJS, and Laravel, and am passionate about continuously learning new technologies.
+I work well in team environments, communicate clearly, and always aim to deliver user-friendly, high-quality websites
 
 ---
 
@@ -25,8 +25,6 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 🥪 **Front End** / 🥗 **Backend**
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwindcss,redux,bootstrap,php,laravel,html,css,js,jquery,scss,mysql,mongodb)
-
-## <<<<<<< HEAD
 
 ## 🔥 Achievements
 
@@ -38,8 +36,6 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 
 ![Tools](https://skillicons.dev/icons?i=mysql,docker,git,npm,github,githubactions,figma,aws,vscode,gitlab)
 
-## <<<<<<< HEAD
-
 ## 🎯 Contribution
 
 - [Backend Project](https://cards.fimi.tech/)
@@ -49,45 +45,13 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 
 ## 📈 My GitHub Stats
 
-<div align="center">
-    <a href="https://github.com/TienLoFi">
-        <img src="https://github-readme-stats.vercel.app/api?username=TienLoFi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-=======
-- [Backend] (https://https://cards.fimi.tech/)
-- [Fullstack] (https://app.zudo.vn/)
-
-<a href="https://github.com/vuvandinh123">
+<a href="https://github.com/TienLoFi">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
 <p align="right">(<a href="#top">Back to top</a>)</p>
-
-### 📈 my github stats
-
-<div align="center">
-    <a href="https://github.com/TienLoFi">
-        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
->>>>>>> origin/main
-    </a>
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-    <a href="https://github.com/TienLoFi">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TienLoFi&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116" alt="GitHub Activity" />
-    </a>
-</div>
-
----
-
-## 👀 Visitors Counter
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TienLoFi.TienLoFi)
 
 ---
 
