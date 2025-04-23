@@ -1,4 +1,3 @@
-
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -27,7 +26,7 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwindcss,redux,bootstrap,php,laravel,html,css,js,jquery,scss,mysql,mongodb)
 
----
+## <<<<<<< HEAD
 
 ## 🔥 Achievements
 
@@ -39,7 +38,7 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 
 ![Tools](https://skillicons.dev/icons?i=mysql,docker,git,npm,github,githubactions,figma,aws,vscode,gitlab)
 
----
+## <<<<<<< HEAD
 
 ## 🎯 Contribution
 
@@ -53,6 +52,24 @@ I collaborate effectively in teams and communicate clearly, always striving to c
 <div align="center">
     <a href="https://github.com/TienLoFi">
         <img src="https://github-readme-stats.vercel.app/api?username=TienLoFi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+=======
+- [Backend] (https://https://cards.fimi.tech/)
+- [Fullstack] (https://app.zudo.vn/)
+
+<a href="https://github.com/vuvandinh123">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+### 📈 my github stats
+
+<div align="center">
+    <a href="https://github.com/TienLoFi">
+        <img src="https://github.com/Zaid-maker/Zaid-maker/blob/output/github-snake-dark.svg" alt="snake" />
+>>>>>>> origin/main
     </a>
 </div>
 
